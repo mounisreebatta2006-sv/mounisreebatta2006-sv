@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm  currently pursuing my 3rd btech in engineering in aditya engineering college <br> im currently building projects on java that could help me to understand applications <br>and im good at problem solving in data structures and SQL im very consisitent at my work and im very good at problem solving 
+naukari:https://www.naukri.com/code360/profile/Mounisree
 
 
 ## 🌐 Socials:
